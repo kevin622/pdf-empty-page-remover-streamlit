@@ -1,5 +1,9 @@
 # PDF 빈 페이지 제거기
 
+[페이지 바로가기](https://pdf-empty-page-remover-app.streamlit.app/)
+
+![screenshot](assets/screenshot.png)
+
 ## 프로젝트 소개
 
 이 프로젝트는 **PDF에서 빈 페이지를 자동으로 제거**해주는 간단한 웹 도구입니다.
